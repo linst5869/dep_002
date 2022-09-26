@@ -1,0 +1,17 @@
+[
+    {
+        "category" : 1,
+        "product_title" : "first one",
+        "img" : "https://picsum.photos/500/300?image=25",
+    },
+    {
+        "category" : 1,
+        "product_title" : "second one",
+        "img" : "https://picsum.photos/500/300?image=40",
+    },
+    {
+        "category" : 2,
+        "product_title" : "first second one",
+        "img" : "https://picsum.photos/500/300?image=41",
+    }
+]
